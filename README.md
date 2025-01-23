@@ -1,7 +1,13 @@
 ## Olá 
-me chamo Guilherme Beltrame Nery, tenho 19 anos e sou iniciante na area da programação, conhecimento médio em C#, HTML, CSS e C++.
+me chamo Guilherme Beltrame Nery, tenho 19 anos e sou iniciante na area da programação, conhecimento médio em:
+-C#
+-HTML
+-CSS
+-C++
 
-
+Projeto [Site médico](https://github.com/GuilhermebNery/nerysanatomytransplante).
+**[Link Linkedin](www.linkedin.com/in/guilherme-beltrame-94a8a8328)
+🤔
 <!--
 **GuilhermebNery/GuilhermebNery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
