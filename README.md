@@ -6,7 +6,8 @@ me chamo Guilherme Beltrame Nery, tenho 19 anos e sou iniciante na area da progr
 -C++
 
 Projeto [Site médico](https://github.com/GuilhermebNery/nerysanatomytransplante).
-Link [**Linkedin**](www.linkedin.com/in/guilherme-beltrame-94a8a8328)
+Link [Linkedin](www.linkedin.com/in/guilherme-beltrame-94a8a8328)
+**Sempre** disposto a aprender.
 🤔
 <!--
 **GuilhermebNery/GuilhermebNery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
