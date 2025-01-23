@@ -6,8 +6,11 @@ conhecimento médio em:
 - CSS
 - C++
 
-Projeto [Site médico](https://github.com/GuilhermebNery/nerysanatomytransplante).
-Link [Linkedin](www.linkedin.com/in/guilherme-beltrame-94a8a8328)
+  Projeto [Site médico](https://github.com/GuilhermebNery/nerysanatomytransplante).
+  
+  Link [Linkedin](www.linkedin.com/in/guilherme-beltrame-94a8a8328)
+
+  
 **Sempre** disposto a aprender.
 🤔
 <!--
