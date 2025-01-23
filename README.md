@@ -1,4 +1,5 @@
-## Olá me chamo Guilherme Beltrame Nery, tenho 19 anos e sou iniciante na area da programação, conhecimento médio em C#, HTML, CSS e C++.
+## Olá 
+me chamo Guilherme Beltrame Nery, tenho 19 anos e sou iniciante na area da programação, conhecimento médio em C#, HTML, CSS e C++.
 
 
 <!--
